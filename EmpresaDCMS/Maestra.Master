@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Maestra.master.cs" Inherits="EmpresaDCMS.Maestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server"> 
+    <title>DCMS Help</title>
+    <link href="Css/Estilos.css" rel="stylesheet" />
+    <script src="Java/Scripts.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body oncontextmenu="return false">
+     <form id="form1" runat="server">
+    <div>
+        <div id="header">
+            <div>
+                <ul>
+                    <li><asp:Image ID="Image1" runat="server" ImageUrl="~/images/logito.png" Height="45px" Width="245px"/></li>
+                    <li><asp:Label ID="usuario" runat="server" Text=""></asp:Label></li>
+                </ul>
+            </div>               
+        </div>
+        <nav class="navBarra">
+            <ul class="nav">
+		        <li><a href="../Administrador/admin.aspx">Inicio</a></li>
+    			<li><a href="">Mantenimientos</a>
+	    		    <ul>
+		    			<li><a href="../Administrador/Roles.aspx">Roles</a></li>
+	    				<li><a href="../Administrador/Departamentos.aspx">Departamentos</a></li>
+		    			<li><a href="../Administrador/Usuarios.aspx">Usuarios</a></li>
+                        <li><a href="">Tickets</a>
+                           <ul>
+							    <li><a href="../Administrador/EstadoTicket.aspx">Estado</a></li>
+								<li><a href="../Administrador/CategoriaTicket.aspx">Categoria</a></li>
+								<li><a href="../Administrador/PrioridadTicket.aspx">Prioridad</a></li>
+							</ul>
+                        </li>
+			    	</ul>
+		    	</li>
+                <li><a href ="">Tickets</a>
+                    <ul>
+                        <li><a href ="../Administrador/IngresarTicketAdmin.aspx">Ingresar Ticket</a></li>
+                        <li><a href ="../Administrador/TicketRegistradoAdministrador.aspx" >Tickets Registrados</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Reportes</a>
+				    <ul>
+			            <li><a href="../Administrador/TicketActivo.aspx">Tickets activos</a></li>
+					    <li><a href="../Administrador/TicketCompletado.aspx">Tickets completados</a></li>
+                        <li><a href="../Administrador/TicketCerrado.aspx">Tickets cerrados</a></li>
+					    <li><a href="../Administrador/TicketRechazado.aspx">Tickest rechazados</a></li>
+		    			<li><a href="../Administrador/TicketRegistrado.aspx">Tickets registrados</a></li>
+			    	</ul>
+			    </li>
+                <li><a href="">Mi Cuenta</a>
+			    	<ul>
+			            <li><a href="../comun/CambiarClave.aspx">Cambiar password</a></li>
+			    		<li><a href="../comun/LogOut.aspx">Log Out</a></li>
+			    	</ul>
+			    </li>
+		    </ul>
+	    </nav>       
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <div id="footer">
+            <footer>
+                <h5>Copyright © 2016 DCMS Help.<br />All rights reserved.</h5>
+            </footer>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+

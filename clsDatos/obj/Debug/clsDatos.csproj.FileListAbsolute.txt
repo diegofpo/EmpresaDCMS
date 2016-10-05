@@ -1,0 +1,10 @@
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsDatos\bin\Debug\clsDatos.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsDatos\bin\Debug\clsDatos.pdb
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsDatos\obj\Debug\clsDatos.csprojResolveAssemblyReference.cache
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsDatos\obj\Debug\clsDatos.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsDatos\obj\Debug\clsDatos.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsDatos\bin\Debug\clsDatos.dll
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsDatos\bin\Debug\clsDatos.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsDatos\obj\Debug\clsDatos.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsDatos\obj\Debug\clsDatos.dll
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsDatos\obj\Debug\clsDatos.pdb

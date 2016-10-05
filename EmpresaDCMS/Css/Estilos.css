@@ -1,0 +1,151 @@
+﻿*{padding:0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+body
+{
+    background:#fff;
+    font-family:Arial;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+
+#header
+{
+    background:#000;
+    height:40px;
+    font-family:Arial;
+    color:#fff;
+}
+
+#content
+{ 
+    padding-bottom:40px; 
+}
+
+#footer
+{
+    text-align: center;
+    font-family: 'Arial';
+    background:#000;
+    position:fixed;
+    bottom:0px;
+    width:100%;
+    height:50px;
+    padding:2px;
+    color: #fff;
+}
+
+.derecha {
+    position: absolute;
+    right: 9px;
+    width: 300px;
+    top: 9px;
+}
+
+.tablaRol {
+    font-family: 'Arial';
+	width:900px;
+	margin:0 auto;
+}
+
+/*Barra de menu*/
+.nav {
+    font-family: 'Arial';
+	width:547px; /*Le establecemos un ancho*/
+	margin:0 auto; /*Centramos automaticamente*/
+    background-color:black;
+}
+
+ul, ol {
+    list-style:none;
+}
+			
+.nav > li {
+    float:left;
+}
+			
+.nav li a {
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+}
+		
+.nav li a:hover {
+	background-color:#434343;
+}
+			
+.nav li ul {
+	display:none;
+	position:absolute;
+	min-width:140px;
+}
+			
+.nav li:hover > ul {
+	display:block;
+}
+			
+.nav li ul li {
+	position:relative;
+}
+		
+.nav li ul li ul {
+	right:-140px;
+	top:0px;
+}
+
+a:hover {
+    background-color:white;
+    font-style:italic;
+    color:black;
+}
+
+.navBarra {
+    background:#000;
+    height:40px;
+    font-family:Arial;
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Selector {
+    /*Le establecemos un ancho*/
+	margin:0 auto;
+    }
+
+.pantallaRol {
+    width:500px; /*Le establecemos un ancho*/
+	margin:0 auto; /*Centramos automaticamente*/
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100px;
+    overflow: hidden;
+}
+
+.gridview {
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login {
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border-collapse: collapse;
+    }
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}

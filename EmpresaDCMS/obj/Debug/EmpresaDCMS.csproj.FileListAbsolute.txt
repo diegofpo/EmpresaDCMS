@@ -1,0 +1,9 @@
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\obj\Debug\EmpresaDCMS.csprojResolveAssemblyReference.cache
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\bin\EmpresaDCMS.dll
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\bin\EmpresaDCMS.pdb
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\bin\clsNegocio.dll
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\bin\clsDatos.dll
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\bin\clsNegocio.pdb
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\bin\clsDatos.pdb
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\obj\Debug\EmpresaDCMS.dll
+c:\users\diego\documents\visual studio 2012\Projects\EmpresaDCMS\EmpresaDCMS\obj\Debug\EmpresaDCMS.pdb

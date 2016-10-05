@@ -1,0 +1,14 @@
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsNegocio\bin\Debug\clsNegocio.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsNegocio\bin\Debug\clsNegocio.pdb
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsNegocio\bin\Debug\clsDatos.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsNegocio\bin\Debug\clsDatos.pdb
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsNegocio\obj\Debug\clsNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsNegocio\obj\Debug\clsNegocio.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Proyecto_ProgresoII_Web\clsNegocio\obj\Debug\clsNegocio.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsNegocio\bin\Debug\clsNegocio.dll
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsNegocio\bin\Debug\clsNegocio.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsNegocio\bin\Debug\clsDatos.dll
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsNegocio\bin\Debug\clsDatos.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsNegocio\obj\Debug\clsNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsNegocio\obj\Debug\clsNegocio.dll
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\EmpresaDCMS\clsNegocio\obj\Debug\clsNegocio.pdb

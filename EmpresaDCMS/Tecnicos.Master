@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Tecnicos.master.cs" Inherits="EmpresaDCMS.Tecnicos" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>DCMS Help</title>
+    <link href="Css/Estilos.css" rel="stylesheet" />
+    <script src="Java/Scripts.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="header">
+            <div>
+                <ul>
+                    <li><asp:Image ID="Image1" runat="server" ImageUrl="~/images/logito.png" Height="45px" Width="245px"/></li>
+                    <li><asp:Label ID="usuario" runat="server" Text=""></asp:Label></li>
+                </ul>
+            </div>               
+        </div>
+        <div class="derecha">
+        </div>  
+        <nav class="navBarra">
+            <ul class="nav">
+		        <li><a href="../Tecnico/tecnico.aspx">Inicio</a></li>
+                <li><a href ="">Tickets</a>
+                    <ul>
+                        <li><a href ="../Tecnico/IngresarTicketTecnico.aspx">Ingresar Ticket</a></li>
+                        <li><a href="../Tecnico/TicketRegistradoTecnico.aspx" >Tickets Registrados</a></li>
+                    </ul>
+                </li>
+                <li><a href ="">Consultas</a>
+                    <ul>
+                        <li><a href="../Tecnico/TicketAsignado.aspx" >Tickets Asignados</a></li>
+                        <li><a href="../Tecnico/TicketCerrado.aspx" >Tickets Cerrados</a></li>
+                        <li><a href="../Tecnico/TicketRetrasado.aspx" >Tickets Retrasados</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Mi Cuenta</a>
+			    	<ul>
+			            <li><a href="../comun/CambiarClave.aspx">Cambiar password</a></li>
+			    		<li><a href="../comun/LogOut.aspx">Log Out</a></li>
+			    	</ul>
+			    </li>
+		    </ul>
+	    </nav>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <div id="footer">
+            <footer>
+                <h5>Copyright © 2016 DCMS Help.<br />All rights reserved.</h5>
+            </footer>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+
